@@ -1,0 +1,7 @@
+{
+  "name": "Enia Code",
+  "description": "Proactive AI coding assistant that detects potential issues early and provides contextual suggestions directly inside your IDE.",
+  "website": "https://www.eniacode.com",
+  "tags": ["coding", "developer-tools"],
+  "open_source": false
+}
